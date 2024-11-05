@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyeslaaribi&label=Profile%20views&color=0e75b6&style=flat" alt="elyeslaaribi" /> </p>
 
-- 🌱 I’m currently learning **Vue.js, Laravel**
+- 🌱 I’m currently learning **Vue.js, Laravel, Mobile Development**
 
 - 📫 How to reach me **elyeslaaribii@gmail.com**
 
